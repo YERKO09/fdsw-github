@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -5,10 +7,21 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/WIN_20230803_12_55_13_Pro.jpg");
+  background-color: rgba(160, 122, 78, 0.733);
+  background-blend-mode: multiply;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
+}
+
+#Hero-Section a{
+  text-decoration: none;
+  color: White;
+}
+
+#Hero-Section i{
+  color:rgb(255, 255, 255);
 }
 
 /* Mis trabajos */
