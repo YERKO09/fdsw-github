@@ -33,6 +33,22 @@ body {
   background-position: center;
 }
 
+
+/*Acerca de mi - Iconos*/
+#Acerca-de-mi{
+  background-color: rgba(255, 255, 255, 0.753);
+  background-image: url(../img/pexels-negative-space-160107.jpg);
+  background-repeat: no-repeat;
+  background-blend-mode:lighten;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#Acerca-de-mi i{
+  font-size: 50px;
+}
+
 /* Contacto */
 
 #Contacto form label {
