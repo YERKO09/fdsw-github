@@ -33,10 +33,20 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos a{
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+}
+
+#Mis-trabajos a:hover{
+  text-decoration: none;
+  color:rgb(19, 19, 19);
+}
+
 
 /*Acerca de mi - Iconos*/
 #Acerca-de-mi{
-  background-color: rgba(255, 255, 255, 0.753);
+  background-color: rgba(255, 255, 255, 0.822);
   background-image: url(../img/pexels-negative-space-160107.jpg);
   background-repeat: no-repeat;
   background-blend-mode:lighten;
